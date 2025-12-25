@@ -1,6 +1,6 @@
 # Low-Level Systems & Offensive Security
 
-A hands-on (personal!) journey into low-level systems and offensive security. This repository documents projects exploring process memory, reverse engineering, and kernel-level programming to build deep understanding of how computers really work.
+A hands-on journey into low-level systems and offensive security. This repository documents projects exploring process memory, reverse engineering, and kernel-level programming to build deep understanding of how computers really work.
 
 ## Motivation
 
@@ -32,13 +32,17 @@ It is not about building production software, but about learning by doing, exper
 
 ## Skills & Tools
 
-- Languages: C
-- OS: Windows 10+, Linux (coming)
-- Debuggers: x64dbg, GDB (Linux later)
-- Concepts: memory layout, process handles, kernel-level programming, reverse engineering, ASLR, DEP
+- **Languages:** C  
+- **Operating Systems:** Windows 10+, Linux (planned)  
+- **Debuggers:** x64dbg, GDB (Linux later)  
+- **Concepts:** memory layout, process handles, kernel-level programming, reverse engineering, ASLR, DEP
 
-## How to use this repository
+## How to Use This Repository
 
-- Each project has its own folder under `projects/`.
-- Refer to each project's README.md for compilation instructions, code structure, and usage examples.
-- Notes, diagrams, and screenshots are in the `docs/` folder.
+- Each project has its own folder under `projects/`.  
+- Refer to each project's README.md for compilation instructions, code structure, and usage examples.  
+- Notes, diagrams, and screenshots are in the `docs/` folder.  
+
+## Learning Journal
+
+Notes and reflections on the projects can be found in the `journal/` folder.
