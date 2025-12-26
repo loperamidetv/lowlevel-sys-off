@@ -1,7 +1,7 @@
 #include <unistd.h>
 
 
-main() {
+int main() {
     int secret = 1234; 
     while (1){
         sleep(1);
